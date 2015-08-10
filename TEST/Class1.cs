@@ -7,5 +7,6 @@ namespace TEST
 {
     public class Class1
     {
+        public int TesId { get; set; }
     }
 }
